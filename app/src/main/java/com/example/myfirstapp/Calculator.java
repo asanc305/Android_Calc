@@ -12,12 +12,12 @@ public class Calculator {
     }
 
     public int add(int term) {
-        sum =+ term;
+        sum += term;
         return sum;
     }
 
     public int subtract(int term) {
-        sum =- term;
+        sum -= term;
         return sum;
     }
 
